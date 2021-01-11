@@ -2,7 +2,11 @@
 
 ## Diagram
 
+<div style="text-align:center">
+
 ![Diagram](https://miro.medium.com/max/1244/1*2ErPpQ9asZ_pVZuXsOigPQ.png)
+
+</div>
 
 More info about it can be checked here:
 
