@@ -1,0 +1,5 @@
+google-cloud-core
+google-api-core
+google-cloud-storage
+google-api-python-client
+google-cloud-iam
