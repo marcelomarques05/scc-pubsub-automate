@@ -1,12 +1,9 @@
 # SCC to PubSub Automation
 
 ## Diagram
-
-<div style="text-align:center">
-
-![Diagram](https://miro.medium.com/max/1244/1*2ErPpQ9asZ_pVZuXsOigPQ.png)
-
-</div>
+<p align="center">
+<img src="https://miro.medium.com/max/1244/1*2ErPpQ9asZ_pVZuXsOigPQ.png">
+</p>
 
 More info about it can be checked here:
 
